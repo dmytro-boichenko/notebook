@@ -1,6 +1,4 @@
-<%@ page import="org.apache.commons.lang3.StringUtils" %>
 <%@ page import="static org.apache.commons.lang3.StringUtils.defaultString" %>
-<%@ page import="java.nio.charset.StandardCharsets" %>
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <html>
 <body>
